@@ -773,9 +773,8 @@ postgres=# SELECT current_timestamp - pg_postmaster_start_time() as uptime;
 postgres=# \q  --->> to quit form postgres console.
 ```
 
-we can see above automatically PostgreSQL service has been started with new pid.
+We can see above that the PostgreSQL service has been automatically started with a new PID.
 
-That’s It! in next upcoming article, we will cover upgradation of PostgreSQL if PostgreSQL installed with source code till then stay tuned with EDB.
 
   
 
